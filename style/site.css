@@ -1,0 +1,40 @@
+body {
+    padding: 2em;
+    font-size: 14pt;
+    font-family: 'Open Sans', 'sans-serif';
+    font-weight: 300;
+    max-width: 400pt;
+    color: #0a0a0a;
+    background: #fafafa;
+}
+
+h1, h2, h3 {
+    font-family: 'Droid Serif', 'serif';
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 24pt;
+}
+
+section.note {
+    background-color: #bfb;
+    font-size: 0.8em;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+p {
+    margin-bottom: 1.7em;
+}
+
+a:link {
+    text-decoration: none;
+    font-weight: 600;
+    color: #000;
+}
+
+a:hover {
+    background: #0a0a0a;
+    color: #fafafa;
+}
