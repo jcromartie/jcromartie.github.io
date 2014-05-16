@@ -1,0 +1,23 @@
+section div {
+    margin: 4px;
+    padding: 0px;
+    height: 20px;
+    font-size: 10pt;
+}
+
+section div span {
+    display: inline-block;
+    height: 100%;
+}
+
+.i0 {
+    background-color: red;
+}
+
+.i1 {
+    background-color: blue;
+}
+
+.i2 {
+    background-color: green;
+}
